@@ -1,0 +1,21 @@
+.odd {
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    background-color: #e0a0ae;
+}
+
+#second { 
+    color: #004ae9;
+    font-size: 32px;
+}
+
+#third {
+    font-size: 24px;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#fourth {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
